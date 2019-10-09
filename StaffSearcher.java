@@ -1,5 +1,3 @@
-package com.patryk.spacecadets.staffsearcher;
-
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import java.util.Scanner;
